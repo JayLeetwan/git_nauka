@@ -10,3 +10,17 @@ container {
 p {
     background-color: red;
 }
+
+.branches {
+    font-size: 30px;
+    margin: 2px solid;
+    color: black;
+}
+
+.branches li{
+    color: black;
+}
+
+.branches p {
+    background-color: red;
+}
