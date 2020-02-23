@@ -1,24 +1,24 @@
 body {
-    background-color: black;
+    background-color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: aliceblue;
+    color: black;
 }
 container {
     text-align: center;
 }
 
 p {
-    background-color: black;
+    background-color: white;
 }
 
 .branches {
     font-size: 30px;
     margin: 2px solid;
-    color: black;
+    color: white;
 }
 
 .branches li{
-    color: white;
+    color: black;
 }
 
 .branches h1 {
