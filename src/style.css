@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(63, 53, 53);
+    background-color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: aliceblue;
 }
@@ -8,7 +8,7 @@ container {
 }
 
 p {
-    background-color: red;
+    background-color: black;
 }
 
 .branches {
@@ -18,9 +18,9 @@ p {
 }
 
 .branches li{
-    color: black;
+    color: white;
 }
 
 .branches h1 {
-    background-color: red;
+    background-color: black;
 }
